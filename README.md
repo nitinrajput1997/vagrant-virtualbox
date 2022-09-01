@@ -4,6 +4,7 @@
 ```bash
 sudo apt update
 sudo apt install virtualbox
+sudo apt install virtualbox virtualbox-ext-pack
 ```
 
 ### Install Vagrant 
